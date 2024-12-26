@@ -1,49 +1,56 @@
-# buildingDecimalToBinary
-building Decimal To Binary Converter
+# **Decimal To Binary Converter Project**
 
-This Website Was Built Using Free Code Camp Instructions: Learn Recursion By Building a Decimal to Binary Conveerter
-
-
-Section: JavaScript Algorithms and Data Structures (Beta)
+## **Project Overview**
 
 
-Course Name: Learn Recursion By Building a Decimal to Binary Conveerter
+#### This Project Is A **Decimal To Binary Converter**, Developed As Part of The FreeCodeCamp Curriculum. 
+
+#### The Primary Goal Is Learn Recursion By Building A Decimal To Binary Converter.
 
 
-Deatils:
-
-Recursion is a programming concept where a function calls itself. 
+## **Course Details**
 
 
-This can reduce a complex problem into simpler sub-problems, until they become straightforward to solve.
++ **Course Section**: JavaScript Algorithms and Data Structures (Beta).
+  
++ **Project Name**: Decimal To Binary Converter.
+  
++ This Site Was Built Using **[Free Code Camp](https://www.freecodecamp.org/).**
+  
++ This Project Is One of The **Required Tasks** To Earn The Certification In JavaScript Algorithms and Data Structures.
+  
+
+## **Purpose**
+
+Recursion Is A Programming Concept Where A Function Calls Itself. 
+
+This Can Reduce A Complex Problem Into Simpler Sub-Problems, Until They Become Straightforward To Solve.  
+
+In This Project, You’ll Build A Decimal-To-Binary Converter Using JavaScript. 
+
+You’ll Learn The Fundamental Concepts Of Recursion, Explore The Call Stack, And Build Out A Visual Representation Of The Recursion Process Through An Animation.  
+
+## **Acknowledgment**
 
 
-In this project, you’ll build a decimal-to-binary converter using JavaScript. 
+This Project Was Created Following The Instructions Provided By **FreeCodeCamp**.
 
+All Rights To This Project And Its Related Materials Belong To **FreeCodeCamp**, A Free Educational Platform Offering Structured Courses And Hands-On Projects.
 
-You’ll learn the fundamental concepts of recursion, explore the call stack, 
+I Am Showcasing This Project As Part Of My Learning Journey, Completed Based On **FreeCodeCamp's Resources And Guidance.**
 
+A Big Thank You To **FreeCodeCamp** For Their Well-Structured Curriculum, Projects, And Partially Provided Code Snippets That Made This Project Possible.
 
-and build out a visual representation of the recursion process through an animation.
+## **Special Thanks**
 
+I Would Also Like To Extend **My Gratitude** To The Following Channels For Their Guidance In Writing The Code:
 
-Link:
+**[@codeManS](https://www.youtube.com/@codeManS)**
 
-https://www.freecodecamp.org/
+**[@landonschlangen](https://www.youtube.com/@landonschlangen)**
 
+These Resources Provided Valuable Insights And Helped Me Refine My Coding Skills.
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-This WebSite or Project Was Built Using The Instructions of The Free Code Camp  WebSite.
-
-Therefore, All Rights In This WebSite or Project Belong To The Free Code Camp Site, A Free Educational Site That Contains Many Projects.
-
-I Am Only Reviewing The Project After Building It From Their Site, So The Project Does Not Belong To Me.
-
-I Would Like To thank The Educational Website Free Code Camp For Teaching Me By Providing Projects , Instructions , And Part of The Codes
 
 
 
